@@ -1,0 +1,7 @@
+Az exobolygók közvetlen megfigyelése nagyon nehéz (mivel a csillag fényereje elnyomja a megfigyelt exobolygóét), ezért eddig mindössze néhány esetben lehetett az anyacsillag körül keringő bolygót lefényképezni. Emiatt az ilyen rendszerek felfedezésére elsősorban indirekt módszerek léteznek.
+
+Fedési módszer: ha egy objektum (például bolygó, barna törpe) elhalad a csillaga előtt, akkor a csillag fényességében csökkenést lehet észlelni. A módszer csak akkor működik, ha a Földről a bolygót a napja előtt látjuk elhaladni. Akkor beszélhetünk kísérő által okozott elhalványodásról, ha ez periodikusan megismétlődik.
+
+Radiális sebesség-mérés: a csillag színképvonalai Doppler-eltolódást mutatnak a körülötte keringő bolygó gravitációs hatása miatt.
+
+Gravitációs mikrolencse-hatás: a bolygó és a csillag kettős gravitációs lencseként viselkedik.

@@ -1,0 +1,5 @@
+Az exobolygók keringése által kiváltott periodikus jelenségek felfedezéséhez szisztematikus keresőprogramokra van szükség, minden egyes megfigyelt csillag kiválasztott paraméterét (fényesség, radiális sebesség) folyamatosan figyelni kell, adott esetben évekig. Mivel a tudományterület még nagyon fiatal, viszonylag kevés, kifejezetten az exobolygók felfedezésére épített berendezés létezik.
+
+Az exobolygó-keresés során komolyan zavaró tényező a Föld légköre, így a legjobb megfigyelések a világűrből végezhetőek, ezért több, kifejezetten az exobolygók kutatására tervezett műhold indítása várható.
+
+2009. március 7-én indították a COROT-hoz hasonló, de lényegesen nagyobb teljesítményű Kepler űrtávcsövet, mely 170 000 csillagot fog folyamatosan, egyszerre figyelni, bolygófedésekre várva.

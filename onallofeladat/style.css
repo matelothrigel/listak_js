@@ -1,0 +1,55 @@
+body {
+	margin: 0;
+	padding: 30px 15px;
+	font-family: Georgia, 'Times New Roman', serif;
+	background: var(--hatter);
+	color: var(--szoveg);
+	transition: background 0.3s, color 0.3s;
+}
+
+/* három design: csak a változók különböznek */
+body.vilagos { --hatter: #f4f6fb; --kartya: #ffffff; --szoveg: #222222; --kiemel: #3b6fd4; }
+body.sotet   { --hatter: #121417; --kartya: #1e2228; --szoveg: #e6e6e6; --kiemel: #6ea8fe; }
+body.urkek   { --hatter: #0b1d3a; --kartya: #12305c; --szoveg: #e8f0ff; --kiemel: #ffd166; }
+
+.kartya {
+	max-width: 700px;
+	margin: 0 auto;
+	padding: 25px 30px;
+	background: var(--kartya);
+	border-radius: 12px;
+	box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+h1 {
+	margin-top: 0;
+	text-align: center;
+	color: var(--kiemel);
+}
+
+.menu-sor {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 10px;
+	justify-content: center;
+	margin-bottom: 20px;
+}
+
+select {
+	padding: 8px 12px;
+	font-size: 1rem;
+	border: 2px solid var(--kiemel);
+	border-radius: 6px;
+	background: var(--kartya);
+	color: var(--szoveg);
+}
+
+#tartalom {
+	white-space: pre-line;   /* az üres sorok (új bekezdések) látszódjanak */
+	line-height: 1.7;
+	text-align: justify;
+}
+
+small {
+	opacity: 0.7;
+}
